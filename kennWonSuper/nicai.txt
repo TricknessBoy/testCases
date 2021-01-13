@@ -1,2 +1,0 @@
-https://github.com/kennWonSuper/monkey.git       h5
-https://github.com/kennWonSuper/nicai.git          小程序
